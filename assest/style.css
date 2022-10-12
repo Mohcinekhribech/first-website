@@ -1,0 +1,134 @@
+ol{
+    list-style: none;
+    display: inline-flex;
+    margin-left: 550px;
+}
+a{
+    text-decoration: none;
+    color: rgb(223, 223, 223);
+}
+.nav{
+    margin-left: 45px;
+    color: rgb(223, 223, 223);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: bold;
+}
+.nav:hover, a:hover{
+    color: rgb(0, 158, 148);
+}
+nav{
+    display: inline-flex;
+    margin: 20px;
+}
+body{
+    background-color: rgb(0, 26, 26);
+}
+#logo {
+    color: rgb(0, 158, 148);
+}
+
+#contact{
+    border: 1px rgb(0, 201, 201);
+    padding: 10px;
+    border-style: solid;
+    color: rgb(223, 223, 223);
+    margin-left: 35px;
+    margin-right: 35pxs;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: bold;
+    margin-top: -10px;
+}
+#contact:hover{
+    background-color: rgb(0, 171, 171);
+    font: bolder;
+    border-radius: 5px;
+    color: black;
+}
+ .Me{
+    margin-left: 200px;
+}
+h1{
+    font-size: 50px;
+    color: rgb(217, 217, 217);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: bold;
+}
+h2{
+    font-size: 30px;
+    color: rgb(179, 179, 179);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: bold;
+}
+.description{
+    font-size: 15px;
+    color: rgb(179, 179, 179);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: bold;
+    line-height: 25px;
+}
+i{
+    color: rgb(255, 255, 255);
+    margin: 10px;
+}
+#minibg{
+    background-color: rgb(0, 132, 123);
+    width: 1270px;
+    height: 250px;
+    margin-left: -10px;
+    margin-top: -158px;
+    bottom: 0;
+}
+.contact-section{
+    width: 400px;
+    margin-left: 200px;
+}
+.pcon{
+    font-size: 12px;
+    color: rgb(179, 179, 179);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: bold;
+    line-height: 15px;
+}
+.info{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: bolder;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+}
+.size{
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(116, 116, 116);
+}
+.message{
+    background-color: rgba(255, 255, 255, 0.888);
+    width: max-content;
+    display: block;
+    margin-left: 750px;
+    box-shadow: 0.5px 0.5px 20px rgb(77, 77, 77);
+    margin-top: -450px;
+    padding: 20px;
+    border-radius: 5px;
+   
+}
+input, textarea{
+    margin: 10px;
+    width: 250px;
+    height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    border: 1.5px solid rgb(0, 158, 148);
+}
+.Envoyer{
+    border: none;
+    background-color: rgb(0, 158, 148);
+    color: white;
+    font: 900;
+}
+.txt{
+    height: 60px;
+}
+.i{
+    margin-top: 100px;
+}
+
